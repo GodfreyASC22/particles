@@ -1,0 +1,19 @@
+{
+    "particles": {
+        "number":{
+            "value": 80
+        },
+        "color" : {
+            "value": "random"
+        },
+        "shape" : {
+            "type": ["triangles","star"]
+        },
+        "move":{
+            "speed": 10,
+            "direction": "right",
+            "out_mode": "bounce"
+        }
+        
+    }
+}
